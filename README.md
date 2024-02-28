@@ -1,3 +1,5 @@
+AIRBNB BOOKING ANALYSIS
+
 Project Summary -
 
 This is a Capstone Project which is a part of my Data Science Course at AlmaBetter.
