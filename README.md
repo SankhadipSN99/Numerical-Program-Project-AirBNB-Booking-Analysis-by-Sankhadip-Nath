@@ -1,6 +1,7 @@
 AIRBNB BOOKING ANALYSIS
 
-![Uploading _109556954_airbnb.png…]()
+![_109556954_airbnb](https://github.com/SankhadipSN99/Numerical-Program-Project-AirBNB-Booking-Analysis-by-Sankhadip-Nath/assets/150376395/359999a8-08bb-4821-83d4-15987ef5e2fb)
+
 
 
 Project Summary -
