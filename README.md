@@ -1,4 +1,7 @@
-##AIRBNB BOOKING ANALYSIS
+AIRBNB BOOKING ANALYSIS
+
+![Uploading _109556954_airbnb.png…]()
+
 
 Project Summary -
 
